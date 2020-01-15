@@ -1,4 +1,4 @@
-const koa =require('koa')
+const Koa =require('koa')
 const Router = require('koa-router')
 
 let server = new koa()
